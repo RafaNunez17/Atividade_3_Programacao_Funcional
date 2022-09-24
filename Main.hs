@@ -72,8 +72,6 @@ função que implemente o Crivo de Euler (Euler’s Sieve) para encontrar todos 
  primos menores que um determinado inteiro dado.
 -}
 
-{- Não consegui fazer essa questão.-}
-
 
 
 {-
